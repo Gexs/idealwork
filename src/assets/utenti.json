@@ -1,0 +1,26 @@
+[
+    {
+        "nome" : "Gennaro",
+        "cognome" : "Palazzo",
+        "username" : "Gexs",
+        "password" : "1234"
+    },
+    {
+        "nome" : "Laura",
+        "cognome" : "Pesce",
+        "username" : "LauraP",
+        "password" : "5678"
+    },
+    {
+        "nome" : "Alessio",
+        "cognome" : "Panella",
+        "username" : "AlessioP",
+        "password" : "9012"
+    },
+    {
+        "nome" : "Mirco",
+        "cognome" : "Bocedi",
+        "username" : "MircoB",
+        "password" : "3456"
+    }
+]

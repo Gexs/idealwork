@@ -14,6 +14,9 @@ import { ElencoOrdiniModule } from './elenco-ordini/elenco-ordini.module';
 import { NovitaModule } from './novita/novita.module';
 
 import { DettaglioProdottoComponent } from './dettaglio-prodotto/dettaglio-prodotto.component';
+import { LoginComponent } from './login/login.component';
+import { FormsModule } from '@angular/forms';
+import { CoreModule } from './core/core.module';
 
 
 @NgModule({
@@ -21,6 +24,7 @@ import { DettaglioProdottoComponent } from './dettaglio-prodotto/dettaglio-prodo
     AppComponent,
     MenuComponent,
     DettaglioProdottoComponent,
+    LoginComponent,
   ],
   imports: [
     BrowserModule,
@@ -32,6 +36,8 @@ import { DettaglioProdottoComponent } from './dettaglio-prodotto/dettaglio-prodo
     RiepilogoOrdineModule,
     ElencoOrdiniModule,
     NovitaModule,
+    FormsModule,
+    CoreModule,
   ],
   providers: [
     ChildrenOutletContexts
