@@ -28,6 +28,8 @@ export class LoginComponent implements OnInit {
     this.dataService.getCodici().subscribe((codici: string[]) => this.codici = codici);
   }
 
+  
+
   login(username: string, password: string): void {
     for (let x = 0; x < this.utenti.length; x++) {
       if (this.utenti[x].username === username) {

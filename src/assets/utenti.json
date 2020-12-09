@@ -2,25 +2,19 @@
     {
         "nome" : "Gennaro",
         "cognome" : "Palazzo",
-        "username" : "Gexs",
+        "username" : "gennaro.palazzo@jump-it.it",
         "password" : "1234"
     },
     {
         "nome" : "Laura",
         "cognome" : "Pesce",
-        "username" : "LauraP",
+        "username" : "laura.pesce@jump-it.it",
         "password" : "5678"
     },
     {
         "nome" : "Alessio",
         "cognome" : "Panella",
-        "username" : "AlessioP",
+        "username" : "alessio.panella@jump-it.it",
         "password" : "9012"
-    },
-    {
-        "nome" : "Mirco",
-        "cognome" : "Bocedi",
-        "username" : "MircoB",
-        "password" : "3456"
     }
 ]
